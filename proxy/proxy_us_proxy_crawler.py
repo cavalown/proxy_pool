@@ -1,5 +1,6 @@
-# import sys
-# sys.path.append(r'/home/cavalown/stock_project/stock')
+import sys
+sys.path.append(r'/home/cavalown/python_env/proxy_pool')
+
 import requests
 from bs4 import BeautifulSoup
 from databaseServer import mongoServer as mongo

@@ -1,5 +1,5 @@
-# import sys
-# sys.path.append(r'/home/cavalown/stock_project/stock')
+import sys
+sys.path.append(r'/home/cavalown/python_env/proxy_pool')
 
 import pymongo
 from pymongo.errors import DuplicateKeyError

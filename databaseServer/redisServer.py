@@ -1,3 +1,6 @@
+import sys
+sys.path.append(r'/home/cavalown/python_env/proxy_pool')
+
 import redis
 from read_file import read_yaml as ryaml
 
